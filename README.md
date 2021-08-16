@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g814109257g&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g814109257g&theme=monokai&show_icons=true&bg_color=DEG,#e36248,#b55773,#904e95)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g814109257g&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
