@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g814109257g&theme=monokai&show_icons=true&bg_color=DEG,e36248,b55773,904e95)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g814109257g&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g814109257g&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **g814109257g/g814109257g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
